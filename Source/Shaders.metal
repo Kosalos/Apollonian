@@ -1,5 +1,6 @@
 // https://github.com/portsmouth/snelly
 // under fractals: apollonian_pt.html
+// also visit: http://paulbourke.net/fractals/apollony/
 
 #include <metal_stdlib>
 #import "ShaderTypes.h"
